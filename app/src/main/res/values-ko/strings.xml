@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_section1">앨범</string>
+    <string name="title_section2">노래</string>
+
+    <string name="main_activity_label">음악 태그 편집기</string>
+
+    <string name="sdcard_readonly">SDCard를 확인해주세요</string>
+    <string name="sdcard_shared">SDCard를 확인해주세요</string>
+    <string name="no_sdcard">SDCard를 확인해주세요</string>
+
+    <string name="pick_gallay">겔러리</string>
+    <string name="pick_web">아티스트로 검색</string>
+    <string name="pick_album">앨범으로 검색</string>
+    <string name="close_string">뒤로 한번 더눌러주시면 종료됩니다.</string>
+    <string name="msg_search">검색중입니다.(5~10초정도 소요됩니다.)</string>
+    <string name="menu_imagepick">이미지 선택</string><string name="alert_savetitle">
+앨범이 속한 노래들의 표지가 바뀌게됩니다.
+저장하시겠습니까?</string>
+    <string name="alert_save_ok">저장</string>
+    <string name="alert_save_cancel">취소</string>
+    <string name="toast_save">저장되었습니다</string>
+    <string name="msg_websearch">이미지 검색중입니다.</string>
+    <string name="toast_websearch_noresult">검색결과가 없습니다</string>
+    <string name="menu_save">저장</string>
+    <string name="edit_track">현재트랙을 입력해주세요</string>
+    <string name="edit_track_label">현재트랙</string>
+    <string name="edit_trackcount">총트랙을 입력해주세요</string>
+    <string name="edit_trackcount_label">총트랙</string>
+    <string name="edit_year">출시년도를 입력해주세요</string>
+    <string name="edit_year_label">출시년도</string>
+    <string name="edit_song">노래제목 입력해주세요</string>
+    <string name="edit_song_label">노래제목</string>
+    <string name="edit_genre">장르를 입력해주세요</string>
+    <string name="edit_genre_label">장르</string>
+    <string name="edit_album">앨범입력 해주세요</string>
+    <string name="edit_album_label">앨범</string>
+    <string name="edit_artist">가수입력 해주세요</string>
+    <string name="edit_artist_label">가수</string>
+    <string name="edt_filipath">경로 : </string>
+    <string name="edit_save">저장중입니다.</string>
+    <string name="toast_nosupport">지원하지 않는 파일입니다.</string>
+</resources>

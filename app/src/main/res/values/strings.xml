@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_section1">Album</string>
+    <string name="title_section2">Song</string>
+
+    <string name="main_activity_label">Music Tag Editor</string>
+
+    <string name="sdcard_readonly">Please check SDCard!</string>
+    <string name="sdcard_shared">Please check SDCard</string>
+    <string name="no_sdcard">Please check SDCard</string>
+
+    <string name="pick_gallay">Gallay</string>
+    <string name="pick_web">"Artist" Search</string>
+    <string name="pick_album">"Album" Search</string>
+
+    <string name="close_string">Press Back Again Exit..</string>
+    <string name="msg_search">Searching.(5 ~ 10 seconds)</string>
+    <string name="menu_imagepick">Image Pick</string><string name="alert_savetitle">
+The song belongs to the album cover is changed.
+Do you want to save?</string>
+    <string name="alert_save_ok">Save</string>
+    <string name="alert_save_cancel">Cancel</string>
+    <string name="toast_save">Save Complete!</string>
+    <string name="msg_websearch">Searching</string>
+    <string name="toast_websearch_noresult">Not Found Image</string>
+    <string name="menu_save">Save</string>
+    <string name="edit_track">Please enter the Track</string>
+    <string name="edit_track_label">Track</string>
+    <string name="edit_trackcount">Please enter the Track Count</string>
+    <string name="edit_trackcount_label">TrackCount</string>
+    <string name="edit_year">Please enter the Year</string>
+    <string name="edit_year_label">Year</string>
+    <string name="edit_song">Please enter the Song</string>
+    <string name="edit_song_label">Song</string>
+    <string name="edit_genre">Please enter the Genre</string>
+    <string name="edit_genre_label">Genre</string>
+    <string name="edit_album">Please enter the Album</string>
+    <string name="edit_album_label">Album</string>
+    <string name="edit_artist">Please enter the Artist</string>
+    <string name="edit_artist_label">Artist</string>
+    <string name="edit_save">Saving.</string>
+    <string name="toast_nosupport">Does not support the file.</string>
+    <string name="edt_filipath">Path : </string>
+
+</resources>

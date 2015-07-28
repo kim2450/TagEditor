@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-aebb260c6d5441781dbb05672e7f995a24d4e167.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-f7fabae295a5758b03cba845a1b9c3eaabb05b2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\swkim\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-d64eff5bc922a52fbc472d4742b17228e2a8c698.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-d9b7bb14ef0d4a578d24fc0d519b5063460bf295.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-6499ae111a59b764071f3e768ed653000638ab1d.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-24a122e113340e42d23eeee250aa668d3c96320e.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-8bfdeaa4d7f0e142b128db00be9035ef1106ebd5.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-dd82937da2a06da66166a00cb3e16ab254c142fb.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-8ea4bba7ae9cf2dfdf19b6cf907394535ca88cdc.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-8c764eb44510ea6cff72047798a3fdaf7b1161cb.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-be1f2bdd8c49c260d33752c8be4574af53bc1c74.jar" />
+    </item>
+    <item
+        jar="C:\Users\swkim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-9663370160f0eccc2498ee1234c1402b9ddb8659.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-c8763c7702c852de9acc08a061ccca13cbfc9280.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-fa1cb6984bc26919e2d7d62be7c5b8782b6b1611.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-a48338c7cd9731c9b0de83fce4630a05596e7aef.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-42b2f0a03351ef765417e1d0d5a1866a5228f780.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="F:\privateSource\workspace_20140306\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-b89600d27e2112a32d9e205fc7ee809bdb1b6cd0.jar" />
+    </item>
+    <item
+        jar="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="F:\privateSource\git\Mp3TagEditor_github\app\build\intermediates\pre-dexed\debug\classes-9937919b3eda5795624fc7f933b0ad150e702ed4.jar" />
+    </item>
+
+</items>

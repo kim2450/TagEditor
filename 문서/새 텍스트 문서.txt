@@ -1,0 +1,13 @@
+DMusic Tag - Music Tag Editor is a tag editor for music files. 
+
+You can then can be saved by searching Google for album art, to change the order of the album music, artist, song, genre information. It provides the ability to search for songs and albums. 
+
+
+- In the case of change hope, for Cover image of the album the song is changed, the image of the same album is completely change the image of the song. 
+
+- I have to minimize the program stops due to a specific event, such as a phone in the middle of the application and automatic rotation of the screen. 
+
+- In order to maintain compatibility with all mobile phones, in the case of photo floating in the exclamation point, there is a photo of the album, but it is a file that has not been expressed. 
+
+
+If it is possible to propose the desired functionality in additional, so that you can reflect up.

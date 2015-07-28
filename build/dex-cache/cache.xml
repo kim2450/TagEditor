@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\build\pre-dexed\release\classes-8c59ac6c8ccb6d9df2ae9d7a24c7b8e37243c98b.jar"
+        jar="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\build\exploded-aar\com.google.android.gms\play-services\4.0.30\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e"/>
+    <item
+        dex="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\build\pre-dexed\release\androidannotations-api-3.0.1-9f2e21fde6ea735ca558cb5acd96110f10e9fac8.jar"
+        jar="C:\Users\swkim\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.0.1\beb7e0a75c753383e7ef68c0e1639999db301c33\androidannotations-api-3.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="beb7e0a75c753383e7ef68c0e1639999db301c33"/>
+    <item
+        dex="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\build\pre-dexed\release\classes-a043cda53c34f36193b08bc3f9bc40381171ed77.jar"
+        jar="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\build\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\build\pre-dexed\release\support-v4-19.1.0-6bb289d60e4e55d53229b6a7645f9eb63f20b7aa.jar"
+        jar="H:\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\build\pre-dexed\release\jakarta-regexp-1.5-2e34f5b5b758ebb38dcab0645c707110204b8d2d.jar"
+        jar="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\libs\jakarta-regexp-1.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="50e748f37c338059a02a81be3609938231131edc"/>
+    <item
+        dex="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\build\pre-dexed\release\universal-image-loader-1.9.2-SNAPSHOT-with-sources-620cdeb57f557ab50f305aa035883f01166c9839.jar"
+        jar="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e"/>
+    <item
+        dex="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\build\pre-dexed\release\MyID3_for_Android-f2a7604c4d71cca9838454253fe08209fa4b372a.jar"
+        jar="H:\프로그래머\Android\workspace_20140306\Mp3TagEditor_github\app\libs\MyID3_for_Android.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0a674c5bc62bf6fa3d1c6fee4023ad807f5de55c"/>
+
+</pre-dex-items>
